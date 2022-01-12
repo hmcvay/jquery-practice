@@ -1,0 +1,35 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+}
+
+.box {
+  margin: 20px;
+  padding: 10px;
+  border: solid 2px black;
+  background-color: orange;
+}
+
+.highligh {
+  background-color: yellow;
+}
+
+#hidden-box {
+  display: none;
+}
